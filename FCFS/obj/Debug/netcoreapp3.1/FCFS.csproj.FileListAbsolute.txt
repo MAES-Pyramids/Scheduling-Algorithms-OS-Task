@@ -1,0 +1,58 @@
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\bin\Debug\netcoreapp3.1\FCFS.exe
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\bin\Debug\netcoreapp3.1\FCFS.deps.json
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\bin\Debug\netcoreapp3.1\FCFS.runtimeconfig.json
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\bin\Debug\netcoreapp3.1\FCFS.runtimeconfig.dev.json
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\bin\Debug\netcoreapp3.1\FCFS.dll
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\bin\Debug\netcoreapp3.1\FCFS.pdb
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.csproj.AssemblyReference.cache
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.Form1.resources
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.csproj.GenerateResource.cache
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.AssemblyInfoInputs.cache
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.AssemblyInfo.cs
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.csproj.CoreCompileInputs.cache
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.dll
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.pdb
+F:\Academic\Os\Week (7)\Lab\Practical\FCFS\FCFS\obj\Debug\netcoreapp3.1\FCFS.genruntimeconfig.cache
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\bin\Debug\netcoreapp3.1\FCFS.exe
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\bin\Debug\netcoreapp3.1\FCFS.deps.json
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\bin\Debug\netcoreapp3.1\FCFS.runtimeconfig.json
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\bin\Debug\netcoreapp3.1\FCFS.runtimeconfig.dev.json
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\bin\Debug\netcoreapp3.1\FCFS.dll
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\bin\Debug\netcoreapp3.1\FCFS.pdb
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.csproj.AssemblyReference.cache
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.Form1.resources
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.Form2.resources
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.Properties.Resources.resources
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.csproj.GenerateResource.cache
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.AssemblyInfoInputs.cache
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.AssemblyInfo.cs
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.csproj.CoreCompileInputs.cache
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.dll
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.pdb
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.genruntimeconfig.cache
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.Form3.resources
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.Form4.resources
+F:\Academic\Os\Week (7)\Tasks\My Task\FCFS\obj\Debug\netcoreapp3.1\FCFS.Form5.resources
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\bin\Debug\netcoreapp3.1\FCFS.exe
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\bin\Debug\netcoreapp3.1\FCFS.deps.json
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\bin\Debug\netcoreapp3.1\FCFS.runtimeconfig.json
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\bin\Debug\netcoreapp3.1\FCFS.runtimeconfig.dev.json
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\bin\Debug\netcoreapp3.1\FCFS.dll
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\bin\Debug\netcoreapp3.1\FCFS.pdb
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.csproj.AssemblyReference.cache
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.Form1.resources
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.Form2.resources
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.Form3.resources
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.Form4.resources
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.Form5.resources
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.Properties.Resources.resources
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.csproj.GenerateResource.cache
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.GeneratedMSBuildEditorConfig.editorconfig
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.AssemblyInfoInputs.cache
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.AssemblyInfo.cs
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.csproj.CoreCompileInputs.cache
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.dll
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.pdb
+E:\..My Apps\scheduling algorithms OS\My Task 2.0\FCFS\obj\Debug\netcoreapp3.1\FCFS.genruntimeconfig.cache
